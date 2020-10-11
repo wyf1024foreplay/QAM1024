@@ -69,3 +69,4 @@ for i=1:1:length(yn)
         xn(5*i-4:5*i)=[1,1,1,1,1];
     end
 end
+
